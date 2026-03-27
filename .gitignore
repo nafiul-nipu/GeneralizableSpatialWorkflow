@@ -179,3 +179,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+backend/notebooks/\*\*accept_reject.ipynb
+backend/notebooks/data/FlavorLens.docx
