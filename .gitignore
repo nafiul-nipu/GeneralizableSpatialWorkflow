@@ -180,5 +180,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 backend/notebooks/\*\*accept_reject.ipynb
-backend/notebooks/data/FlavorLens.docx
-backend/notebooks/data/FlavorVA_VIS_26.pdf
+backend/notebooks/data/*.docx
+backend/notebooks/data/*.pdf
