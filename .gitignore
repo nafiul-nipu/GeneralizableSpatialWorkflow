@@ -182,3 +182,5 @@ cython_debug/
 backend/notebooks/\*\*accept_reject.ipynb
 backend/notebooks/data/*.docx
 backend/notebooks/data/*.pdf
+backend/notebooks/data/.gitkeep
+backend/notebooks/accept_reject.ipynb
